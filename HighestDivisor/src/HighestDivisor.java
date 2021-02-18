@@ -13,6 +13,8 @@ public class HighestDivisor {
                     break;
                 }
             }
+
+
             System.out.print(ans);
         }
     }
